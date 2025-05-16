@@ -1,4 +1,4 @@
-# GameAudios ncs (no copyright)
+# GameAudios
 
 
 ## picnic
